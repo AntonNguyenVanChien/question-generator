@@ -31,6 +31,8 @@ python app.py
 🔗 GitHub: AntonNguyenVanChien
 
 ![image](https://github.com/user-attachments/assets/697241a3-2706-4dfe-8363-f7cb2b39f70f)
+(https://github.com/user-attachments/assets/7939c070-957b-4e46-941a-d6205e779f1d)
+
 
 
 ![image](https://github.com/user-attachments/assets/58edde20-d3aa-4ed9-9ac0-59b2221a5016)
