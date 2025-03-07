@@ -32,5 +32,8 @@ python app.py
 
 ![002](https://github.com/user-attachments/assets/df98b468-4048-4d7a-b93e-8a36ab901fd6)
 
+link demo:
+https://drive.google.com/file/d/1fr5wlrud_RH8M6ITAab-1s0MyhkhYnjO/view?usp=sharing
+
 
 
