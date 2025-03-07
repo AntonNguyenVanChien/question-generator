@@ -29,3 +29,11 @@ python app.py
 📌 Author: AntonNguyenVanChien
 📧 Email: antonnguyenvanchien2002@gmail.com
 🔗 GitHub: AntonNguyenVanChien
+
+![image](https://github.com/user-attachments/assets/697241a3-2706-4dfe-8363-f7cb2b39f70f)
+
+
+![image](https://github.com/user-attachments/assets/58edde20-d3aa-4ed9-9ac0-59b2221a5016)
+
+
+![image](https://github.com/user-attachments/assets/c6f9328a-298b-4b7f-b523-9d7c9e14108a)
