@@ -1,0 +1,127 @@
+@import 'assets/scss/variables';
+@import 'assets/scss/modal';
+
+@font-face {
+  font-family: 'RocknRoll One';
+  src: url('assets/fonts/RocknRollOne-Regular.ttf') format('truetype');
+}
+
+$rock-n-roll-one: 'RocknRoll One', sans-serif;
+
+@mixin scroll-bar {
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+
+    @media screen and (max-width: 991px) {
+      width: 6px;
+      height: 6px;
+    }
+
+    @media screen and (max-width: 767px) {
+      width: 6px;
+      height: 2px;
+    }
+  }
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 20px transparent;
+    -webkit-box-shadow: inset 0 0 20px transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background-image: -webkit-linear-gradient(
+      top,
+      rgba(97, 118, 247, 0.8),
+      rgba(133, 160, 254, 0.8)
+    );
+  }
+}
+
+html {
+  min-width: 370px;
+  overflow-y: overlay !important;
+  overflow-x: auto !important;
+  @include scroll-bar;
+}
+
+// Styles
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-size: $default-font-size;
+  @include scroll-bar;
+
+  @media screen and (max-width: 767px) {
+    font-size: $default-mobile-font-size;
+  }
+
+  a {
+    color: unset;
+
+    &:hover {
+      text-decoration: none;
+      @extend a;
+    }
+  }
+
+  input {
+    line-height: inherit;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  h4 {
+    &.heading {
+      text-transform: uppercase;
+      font-size: 18px;
+      font-weight: 600 !important;
+      margin: 0;
+
+      @media screen and (max-width: 767px) {
+        font-size: 17px;
+      }
+    }
+  }
+
+  h5 {
+    &.heading {
+      text-transform: uppercase;
+      font-size: 16px;
+      margin: 0;
+      font-weight: 600 !important;
+
+      @media screen and (max-width: 767px) {
+        font-size: 15px;
+      }
+    }
+  }
+
+  .rock-n-roll-font {
+    font-family: $rock-n-roll-one;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+// Transition
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s;
+}
+
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}

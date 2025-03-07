@@ -1,0 +1,136 @@
+.modal-custom-overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+}
+
+.modal-custom {
+  background-color: #fff;
+  width: 38%;
+  max-height: 50%;
+  margin-top: 2%;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+
+  .top {
+    height: 8%;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .title-top {
+      flex: 1;
+      font-weight: 700;
+      font-size: 20px;
+      margin-top: 5px;
+    }
+
+    .close-post-show-modal {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 35px;
+      height: 35px;
+      border-radius: 100%;
+      margin-right: 15px;
+      background-color: #e4e6eb;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #bec3c9;
+      }
+
+      img {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+
+  .content {
+    padding: 20px;
+    .upload-photo {
+      background-color: #d3e1fa;
+      border-radius: 6px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 7px;
+      padding-bottom: 7px;
+
+      &:hover {
+        background-color: #aac9ff;
+      }
+
+      span {
+        font-size: 15px;
+        font-weight: 600;
+        color: #3578e5;
+      }
+    }
+  }
+
+  .ui-saved-avatar {
+    width: 100%;
+    img {
+      width: 100%;
+      height: 270px;
+      object-fit: contain;
+    }
+
+    .bottom-saved {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      border-top: 1px solid #ccc;
+      margin-top: 20px;
+      padding-top: 10px;
+
+      .cancel {
+        padding: 7px 20px;
+        border-radius: 6px;
+        font-weight: 500;
+        font-size: 15px;
+        color: #1877f2;
+        cursor: pointer;
+
+        &:hover {
+          background-color: #ebedf0;
+        }
+      }
+
+      .save {
+        background-color: #1b74e4;
+        padding: 7px 35px;
+        border-radius: 6px;
+        font-weight: 500;
+        font-size: 15px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 5px;
+      }
+    }
+  }
+}
+
+.modal-custom-fade-enter,
+.modal-custom-fade-leave-to {
+  opacity: 0;
+}
+
+.modal-custom-fade-enter-active,
+.modal-custom-fade-leave-active {
+  transition: opacity 0.5s ease;
+}

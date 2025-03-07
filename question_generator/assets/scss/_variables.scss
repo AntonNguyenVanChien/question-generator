@@ -1,0 +1,93 @@
+// Width
+$header-height: 60px;
+$balance-height: 40px;
+$navbar-height: 50px;
+
+$box-detail-width: 500px;
+$tablet-box-detail-width: 400px;
+$mobile-box-detail-width: 85%;
+$box-detail-img-width: 520px;
+$tablet-box-detail-img-width: 420px;
+$mobile-box-detail-img-width: 90%;
+$box-detail-action-width: 400px;
+$tablet-box-detail-action-width: 350px;
+$mobile-box-detail-action-width: 300px;
+
+$top-page-width: $box-detail-img-width;
+$tablet-top-page-width: $tablet-box-detail-img-width;
+$mobile-top-page-width: $mobile-box-detail-img-width;
+
+$card-detail-width: 400px;
+$tablet-card-detail-width: 350px;
+$mobile-card-detail-width: 300px;
+
+$sidebar-width: 380px;
+$tracking-width: 400px;
+
+$default-main-padding-top: 32px;
+$tablet-main-padding-top: 28px;
+$mobile-main-padding-top: 20px;
+$small-mobile-main-padding-top: 15px;
+
+// Color
+$primary-color: rgb(231, 70, 70);
+$light-primary-color: rgb(133, 160, 254);
+$lighter-primary-color: rgb(166, 186, 255);
+$secondary-color: rgb(255, 166, 62);
+$light-secondary-color: rgb(255, 201, 138);
+$lighter-secondary-color: rgb(252, 211, 164);
+$danger-color: rgb(214, 0, 28);
+$light-danger-color: rgb(239, 70, 92);
+$intermediate-color: rgb(253, 82, 82);
+$success-color: rgb(40, 167, 69);
+$light-intermediate-color: rgb(255, 185, 102);
+$background-sidebar-color: rgb(242, 242, 242);
+
+$primary-text: #050505;
+
+$gold-gradient: radial-gradient(
+    ellipse farthest-corner at right bottom,
+    #ffe578 0%,
+    #ffd174 8%,
+    #ffcb67 30%,
+    #ffc43c 40%,
+    transparent 80%
+  ),
+  radial-gradient(
+    ellipse farthest-corner at left top,
+    #ffffff 0%,
+    #ffffcf 8%,
+    #ffe9b0 25%,
+    #ffca6d 62.5%,
+    #5d4a1f 100%
+  );
+$gold-shadow: #5d4a1f;
+
+$silver-gradient: radial-gradient(
+    ellipse farthest-corner at right bottom,
+    #ececec 0%,
+    #e1e1e1 8%,
+    #c5c5c5 30%,
+    #c2c2c2 40%,
+    transparent 80%
+  ),
+  radial-gradient(
+    ellipse farthest-corner at left top,
+    #ffffff 0%,
+    #eaeaea 8%,
+    #d0d0d0 25%,
+    #a8a8a8 62.5%,
+    #949494 100%
+  );
+$silver-shadow: #949494;
+
+$white-color: #fff;
+$black-color: rgba(0, 0, 0, 1);
+$gray-color: rgb(100, 100, 100);
+$grey-color: #ddd;
+
+// Font size
+$default-font-size: 0.82rem;
+$default-mobile-font-size: 0.8rem;
+
+$border-gray: #e8e8e8;

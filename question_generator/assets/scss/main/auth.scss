@@ -1,0 +1,76 @@
+@import 'assets/scss/variables';
+
+.form-login {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ecfeff;
+
+  .login {
+    justify-content: center;
+    padding-top: 100px;
+
+    .icon-logo {
+      width: 50%;
+      margin-left: 25%;
+    }
+
+    .form {
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      text-align: center;
+
+      input {
+        font-size: 17px;
+        padding: 14px 16px;
+        background: #ffffff;
+        border: 1px solid #dddfe2;
+        color: #1d2129;
+        height: 52px;
+        line-height: 16px;
+        vertical-align: middle;
+        outline: none;
+      }
+
+      .btn-login {
+        width: 100%;
+        padding: 10px 20px;
+        background-color: #1877f2;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        font-size: 20px;
+        cursor: pointer;
+        font-weight: bold;
+        text-decoration: 2;
+      }
+
+      .forget-pw {
+        padding-top: 20px;
+        color: #1877f2;
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+      .hr {
+        align-items: center;
+        border-bottom: 1px solid #dadde1;
+        display: flex;
+        margin: 20px 0px;
+        text-align: center;
+      }
+
+      .btn-register {
+        background-color: #42b72a;
+        border: none;
+        border-radius: 6px;
+        font-size: 17px;
+        line-height: 48px;
+        padding: 0 16px;
+        font-weight: bold;
+        margin-bottom: 12px;
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+@import 'assets/scss/variables';
+.topic {
+  padding: 15px;
+
+  .title {
+    padding-bottom: 15px;
+  }
+
+  .wrapper-content-qa-show {
+    display: flex;
+
+    .popup-wrapper {
+      .icon-popup {
+        img {
+          margin-top: 3px;
+        }
+      }
+
+      svg {
+        top: 14px;
+        left: -23px;
+      }
+
+      .content-popup {
+        top: 25px;
+        left: -250px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 0px;
+
+        ul {
+          li {
+            cursor: pointer;
+
+            .content-item {
+              .title {
+                padding-bottom: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

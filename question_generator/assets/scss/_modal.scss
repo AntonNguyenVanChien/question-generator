@@ -1,0 +1,133 @@
+@import 'variables';
+
+.modal-open {
+  position: fixed;
+}
+
+.modal {
+  .modal-dialog {
+    .modal-content {
+      border-radius: 16px;
+      box-shadow: 0 0.46875rem 2.1875rem rgba(236, 242, 248, 0.1),
+        0 0.9375rem 1.40625rem rgba(236, 242, 248, 0.1),
+        0 0.25rem 0.53125rem rgba(236, 242, 248, 0.2),
+        0 0.125rem 0.1875rem rgba(236, 242, 248, 0.1);
+      padding: 15px;
+
+      .modal-body {
+        text-align: center;
+        padding-bottom: 0px;
+
+        .modal-close__button {
+          transform: rotate(45deg);
+          position: absolute;
+          right: -30px;
+          top: -45px;
+          padding: 15px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+
+          &:hover {
+            opacity: 0.8;
+          }
+
+          &::before,
+          &::after {
+            position: absolute;
+            content: '';
+            border-radius: 1px;
+            background-color: $white-color;
+          }
+
+          &::before {
+            width: 2px;
+            height: 20px;
+            left: 13px;
+            top: 5px;
+          }
+
+          &::after {
+            width: 20px;
+            height: 2px;
+            left: 4px;
+            top: 14px;
+          }
+        }
+
+        .modal__sentence {
+          font-weight: 600;
+        }
+
+        .form {
+          margin-top: 20px;
+          text-align: left;
+        }
+      }
+    }
+  }
+
+  &#modal__image {
+    .modal-dialog {
+      .modal-content {
+        border-radius: 5px;
+        padding: 0;
+
+        .modal-body {
+          position: relative;
+          padding: 0;
+
+          .modal-close__button {
+            transform: rotate(45deg);
+            position: absolute;
+            right: 0;
+            top: -30px;
+            padding: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            &:hover {
+              opacity: 0.9;
+            }
+
+            &::before,
+            &::after {
+              position: absolute;
+              content: '';
+              border-radius: 2px;
+              background-color: $white-color;
+            }
+
+            &::before {
+              width: 2px;
+              height: 20px;
+              left: 13px;
+              top: 5px;
+            }
+
+            &::after {
+              width: 20px;
+              height: 2px;
+              left: 4px;
+              top: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.dark-mode {
+  .modal-dialog {
+    .modal-content {
+      background-color: #000;
+      box-shadow: 0 0.46875rem 2.1875rem rgb(126, 126, 126),
+        0 0.9375rem 1.40625rem rgb(129, 129, 129),
+        0 0.25rem 0.53125rem rgb(94, 94, 94),
+        0 0.125rem 0.1875rem rgb(66, 66, 66);
+    }
+  }
+}
