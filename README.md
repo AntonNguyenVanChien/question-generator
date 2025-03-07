@@ -30,5 +30,6 @@ python app.py
 📧 Email: antonnguyenvanchien2002@gmail.com
 🔗 GitHub: AntonNguyenVanChien
 
-![003](https://github.com/user-attachments/assets/e0ace257-c4fb-4862-b1e0-ff5b0f9643cf)
+![image](https://github.com/user-attachments/assets/8c8a7c93-0954-4265-b753-c2cd64cf1625)
+
 
