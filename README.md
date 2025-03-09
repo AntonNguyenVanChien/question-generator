@@ -28,13 +28,8 @@ python app.py
 
 image:
 
-![image](https://github.com/user-attachments/assets/381f0a98-2309-4215-a56c-a4313a49e3f3)
-
-![image](https://github.com/user-attachments/assets/a889a088-c4bf-4f2a-8dcd-2a12f836c7a4)
-
-![image](https://github.com/user-attachments/assets/26fba8e1-4046-4ef1-b947-7965c4b6dcb5)
-
-
+![image](https://github.com/user-attachments/assets/0bf31683-ec78-4a60-af97-cf0ae082a000)
+![image](https://github.com/user-attachments/assets/44f08593-9a4f-4595-a2aa-ea90871ce323)
 
 
 link demo:
