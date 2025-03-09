@@ -28,8 +28,7 @@ python app.py
 
 image:
 
-https://drive.google.com/file/d/1o61d8EFYaIJreC4ZE8B-BvWB3C0-AUCO/view?usp=sharing
-![image](https://github.com/user-attachments/assets/36ed7fed-8dbb-4685-9810-41ddba2ad366)
+![image](https://github.com/user-attachments/assets/381f0a98-2309-4215-a56c-a4313a49e3f3)
 
 
 link demo:
