@@ -28,9 +28,11 @@ python app.py
 
 image:
 
-![image](https://github.com/user-attachments/assets/0bf31683-ec78-4a60-af97-cf0ae082a000)
-![image](https://github.com/user-attachments/assets/44f08593-9a4f-4595-a2aa-ea90871ce323)
+![001](https://github.com/user-attachments/assets/45f21131-486d-405b-999f-c8c8484a6cfa)
 
+![002](https://github.com/user-attachments/assets/d3a6f2c9-d094-42f7-9877-18a66990c921)
+
+![003](https://github.com/user-attachments/assets/9ef4f1af-6f12-442e-a197-5d726eadd501)
 
 link demo:
 https://drive.google.com/file/d/1fr5wlrud_RH8M6ITAab-1s0MyhkhYnjO/view?usp=sharing
