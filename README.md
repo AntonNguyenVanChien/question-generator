@@ -28,7 +28,7 @@ python app.py
 
 image:
 
-![Question Generator UI](https://raw.githubusercontent.com/AntonNguyenVanChien/question-generator/master/image/003.png)
+![Image](https://github.com/AntonNguyenVanChien/question-generator/blob/master/image/003.png?raw=true)
 
 link demo:
 https://drive.google.com/file/d/1fr5wlrud_RH8M6ITAab-1s0MyhkhYnjO/view?usp=sharing
