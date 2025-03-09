@@ -1,40 +1,38 @@
-# Question Generator AI 🚀
+📌 Introduction
 
-**Question Generator AI** is an AI-powered project designed to automatically generate questions based on input text. This system helps create diverse questions and can be applied in learning, knowledge assessments, or educational content creation.
+Simple Music Player is a lightweight music application that allows users to play local music files from their devices. The app features an intuitive interface and supports basic playback controls such as play, pause, and track navigation.
 
-## 🌟 Key Features
-- ✅ Generate questions from any given text.
-- ✅ Supports multiple question types (Multiple Choice, Fill in the Blanks, Essay, etc.).
-- ✅ AI-powered optimization for context-aware questions.
-- ✅ RESTful API for seamless integration.
+🎵 Features
 
-## 📂 Project Structure
-```bash
-question_generator_ai/    # Main AI source code
-question_generator/       # Frontend logic and UI
-question_generator_serve/ # Backend API processing
+Play music from local storage.
 
-🚀 Installation Guide
-1️⃣ Clone the repository
-git clone https://github.com/AntonNguyenVanChien/question-generator.git
-cd question-generator
+Control playback (play/pause).
 
-2️⃣ Set up the environment (Python)
-cd question_generator_ai
-python app.py
+Skip to the previous/next track.
 
-🔗 Or access the AI directly here: Question Generator AI 
-👉 https://drive.google.com/file/d/1jKCf1BQmPdlP7aXM9_wBdA-hTF34Uini/view?usp=drive_link 👈
+Display song details (title, artist, album art if available).
 
-image:
+Simple and user-friendly interface.
 
-![Image](https://github.com/AntonNguyenVanChien/question-generator/blob/master/image/003.png?raw=true)
+📸 Screenshots
 
-link demo:
-https://drive.google.com/file/d/1fr5wlrud_RH8M6ITAab-1s0MyhkhYnjO/view?usp=sharing
+![image](https://github.com/user-attachments/assets/9f47c7f0-d933-4ef1-8490-49164be8f306)
 
-📌 Author: AntonNguyenVanChien
-📧 Email: antonnguyenvanchien2002@gmail.com
-🔗 GitHub: AntonNguyenVanChien
+![image](https://github.com/user-attachments/assets/bba5b709-8300-4612-8bb4-766f540c1934)
 
+![image](https://github.com/user-attachments/assets/21279323-b437-4199-aad1-4d11ace40e8b)
+
+![image](https://github.com/user-attachments/assets/5f8dd8e2-a14d-4a39-bba2-54cc9c2b2f7b)
+
+📜 License
+
+MIT License. See the LICENSE file for more details.
+
+📞 Contact
+
+Author: AntonNguyenVanChien
+
+Email: antonnguyenvanchien2002@gmail.com
+
+GitHub: https://github.com/AntonNguyenVanChien/
 
