@@ -1,11 +1,17 @@
 📌 Introduction
+
 Question Generator AI is an AI-powered application designed to automatically generate questions from input text. This tool is useful for educational purposes, assessments, and content creation, providing diverse question formats with AI-enhanced optimization.
 
 🎯 Features
+
 ✅ Generate questions from any given text.
+
 ✅ Supports multiple question types (Multiple Choice, Fill in the Blanks, Essay, etc.).
+
 ✅ AI-powered optimization for context-aware question generation.
+
 ✅ Simple and intuitive user interface.
+
 ✅ RESTful API for seamless integration.
 
 📸 Screenshots
@@ -20,6 +26,9 @@ Question Generator AI is an AI-powered application designed to automatically gen
 📜 Full link of question-generator-ai : https://drive.google.com/file/d/1jKCf1BQmPdlP7aXM9_wBdA-hTF34Uini/view?usp=drive_link
 
 📞 Contact
+
 Author: AntonNguyenVanChien
+
 Email: antonnguyenvanchien2002@gmail.com
+
 GitHub: AntonNguyenVanChien
