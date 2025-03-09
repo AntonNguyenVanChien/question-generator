@@ -28,17 +28,7 @@ python app.py
 
 image:
 
-![image](https://github.com/user-attachments/assets/3c0ce169-f657-4a56-8419-6ef75f0483d2)
-
-![image](https://github.com/user-attachments/assets/1f973b4f-701a-44c4-a6e8-f1627f700414)
-
-![image](https://github.com/user-attachments/assets/a5ed60a1-3a3c-47d5-8e9b-fe37181cd81f)
-
-https://raw.githubusercontent.com/AntonNguyenVanChien/question-generator/master/image/003.png
-
-![trang chủ 1](https://github.com/user-attachments/assets/f99a3d1d-1867-43c7-9e46-c0b3c237bbb2)
-
-https://github.com/AntonNguyenVanChien/question-generator/commit/0ec1d7ac139fe68ea51717e442ea7c862ff77b2f#diff-369b05bc3359af994eb52a2fbbfdd9f985d5d734b7dc65cdff62085e824b6d49
+![Question Generator UI](https://raw.githubusercontent.com/AntonNguyenVanChien/question-generator/master/image/003.png)
 
 link demo:
 https://drive.google.com/file/d/1fr5wlrud_RH8M6ITAab-1s0MyhkhYnjO/view?usp=sharing
