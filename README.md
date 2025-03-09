@@ -24,6 +24,9 @@ Simple and user-friendly interface.
 
 ![image](https://github.com/user-attachments/assets/5f8dd8e2-a14d-4a39-bba2-54cc9c2b2f7b)
 
+![trang chủ 1](https://github.com/user-attachments/assets/72d6de9e-9fb3-4f6f-b147-c41b786586f8)
+
+
 📜 License
 
 MIT License. See the LICENSE file for more details.
