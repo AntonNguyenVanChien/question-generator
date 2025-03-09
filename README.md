@@ -1,41 +1,25 @@
 📌 Introduction
+Question Generator AI is an AI-powered application designed to automatically generate questions from input text. This tool is useful for educational purposes, assessments, and content creation, providing diverse question formats with AI-enhanced optimization.
 
-Simple Music Player is a lightweight music application that allows users to play local music files from their devices. The app features an intuitive interface and supports basic playback controls such as play, pause, and track navigation.
-
-🎵 Features
-
-Play music from local storage.
-
-Control playback (play/pause).
-
-Skip to the previous/next track.
-
-Display song details (title, artist, album art if available).
-
-Simple and user-friendly interface.
+🎯 Features
+✅ Generate questions from any given text.
+✅ Supports multiple question types (Multiple Choice, Fill in the Blanks, Essay, etc.).
+✅ AI-powered optimization for context-aware question generation.
+✅ Simple and intuitive user interface.
+✅ RESTful API for seamless integration.
 
 📸 Screenshots
+🏠 Home Page
 
-![image](https://github.com/user-attachments/assets/9f47c7f0-d933-4ef1-8490-49164be8f306)
+![003](https://github.com/user-attachments/assets/dd6544e5-6e27-4601-9788-0fabed9be480)
 
-![image](https://github.com/user-attachments/assets/bba5b709-8300-4612-8bb4-766f540c1934)
+![002](https://github.com/user-attachments/assets/5d18aef6-3a9a-4b23-a887-a3fd5050e12e)
 
-![image](https://github.com/user-attachments/assets/21279323-b437-4199-aad1-4d11ace40e8b)
+![001](https://github.com/user-attachments/assets/8b694914-6d9b-4148-a1b5-ecbe8c71322b)
 
-![image](https://github.com/user-attachments/assets/5f8dd8e2-a14d-4a39-bba2-54cc9c2b2f7b)
-
-![trang chủ 1](https://github.com/user-attachments/assets/72d6de9e-9fb3-4f6f-b147-c41b786586f8)
-
-
-📜 License
-
-MIT License. See the LICENSE file for more details.
+📜 Full link of question-generator-ai : https://drive.google.com/file/d/1jKCf1BQmPdlP7aXM9_wBdA-hTF34Uini/view?usp=drive_link
 
 📞 Contact
-
 Author: AntonNguyenVanChien
-
 Email: antonnguyenvanchien2002@gmail.com
-
-GitHub: https://github.com/AntonNguyenVanChien/
-
+GitHub: AntonNguyenVanChien
