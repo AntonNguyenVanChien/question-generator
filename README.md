@@ -34,6 +34,10 @@ image:
 
 ![image](https://github.com/user-attachments/assets/a5ed60a1-3a3c-47d5-8e9b-fe37181cd81f)
 
+https://raw.githubusercontent.com/AntonNguyenVanChien/question-generator/master/image/003.png
+
+![trang chủ 1](https://github.com/user-attachments/assets/f99a3d1d-1867-43c7-9e46-c0b3c237bbb2)
+
 https://github.com/AntonNguyenVanChien/question-generator/commit/0ec1d7ac139fe68ea51717e442ea7c862ff77b2f#diff-369b05bc3359af994eb52a2fbbfdd9f985d5d734b7dc65cdff62085e824b6d49
 
 link demo:
